@@ -4,6 +4,7 @@
 - **Country**: ![Portugal](https://img.shields.io/badge/-🇵🇹-00A1D6?style=flat&logo=globe&logoColor=white) **Portugal**
 - **Age**: **19** ![Age Icon](https://img.shields.io/badge/-🎂-F1C40F?style=flat&logo=birthday-cake&logoColor=white)
 
+---
 ## Technologies and Tools
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
