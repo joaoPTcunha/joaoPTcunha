@@ -1,7 +1,7 @@
 ## About Me
 
 **👤 Name**: Joao Cunha  
-**🌍 Country**: ![Portugal](https://img.shields.io/badge/-🇵🇹-00A1D6?style=flat&logo=globe&logoColor=white) **Portugal**  
+**🌍 Country**: !**Portugal**  
 **🎂 Age**: **19**
 
 ---
