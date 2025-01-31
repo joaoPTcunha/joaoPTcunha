@@ -1,7 +1,7 @@
 ## About Me
 
 **👤 Name**: Joao Cunha  
-**🌍 Country**: !**Portugal**  
+**🌍 Country**:**Portugal**  
 **🎂 Age**: **19**
 
 ---
