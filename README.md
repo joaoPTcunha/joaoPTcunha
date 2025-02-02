@@ -1,3 +1,5 @@
+ ![snake gif](https://github.com/joaoPTcunha/joaoPTcunha/blob/output/github-contribution-grid-snake.gif)
+ 
 ## About Me
 
 **👤 Name**: Joao Cunha  
